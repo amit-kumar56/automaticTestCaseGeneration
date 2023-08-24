@@ -1,0 +1,6 @@
+[MASTER] 00:34:26.658 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:34:26.660 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: reactor.netty.http.server.HttpServerRequest
+[MASTER] 00:34:26.661 [pool-2-thread-1] WARN  CheapPurityAnalyzer - io.netty.handler.codec.http.HttpMethod was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:34:26.662 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: io.netty.handler.codec.http.HttpMethod
+[MASTER] 00:34:26.663 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:34:26.924 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/amit/Downloads/stock-market-charting-application-SectorServiceApp/.evosuite/evosuite-seeds/com.example.Amit.exception.SectorNotFoundException.seed

@@ -1,0 +1,5 @@
+[MASTER] 00:38:24.362 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/amit/Downloads/stock-market-charting-application-SectorServiceApp/.evosuite/evosuite-seeds/com.example.Amit.SectorServiceAppApplication.seed
+[MASTER] 00:38:24.726 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 9 seconds more than allowed.
+[MASTER] 00:39:06.548 [pool-2-thread-1] WARN  TestSuiteGenerator - JUnit checking timed out
+[MASTER] 00:39:06.548 [pool-2-thread-1] WARN  TimeController - Phase JUNIT_CHECK lasted too long, 2 seconds more than allowed.
+[MASTER] 00:39:06.548 [pool-2-thread-1] WARN  TimeController - Current phase WRITING_TESTS could run up to 5s, but only 3s are left

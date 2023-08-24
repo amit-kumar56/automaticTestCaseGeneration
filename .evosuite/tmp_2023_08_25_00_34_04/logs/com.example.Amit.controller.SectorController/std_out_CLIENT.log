@@ -1,0 +1,10 @@
+[MASTER] 00:36:56.535 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /home/amit/Downloads/stock-market-charting-application-SectorServiceApp/.evosuite/evosuite-seeds/com.example.Amit.controller.SectorController.seed
+[MASTER] 00:36:56.776 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 4 seconds more than allowed.
+[MASTER] 00:37:05.303 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No generators of type java.util.List<com.example.Amit.model.Sector>
+[MASTER] 00:37:07.475 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:37:07.475 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: reactor.netty.http.server.HttpServerRequest
+[MASTER] 00:37:07.476 [pool-2-thread-1] WARN  CheapPurityAnalyzer - io.netty.handler.codec.http.HttpMethod was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:37:07.476 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: io.netty.handler.codec.http.HttpMethod
+[MASTER] 00:37:07.477 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:37:07.480 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Have no generator for java.util.Optional<com.example.Amit.model.Sector> canUseFunctionalMocks=true, canBeMocked: false
+[MASTER] 00:37:07.630 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Have no generator for interface com.example.Amit.service.SectorService canUseFunctionalMocks=false, canBeMocked: true

@@ -1,0 +1,7 @@
+[MASTER] 00:39:40.834 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 7 seconds more than allowed.
+[MASTER] 00:39:41.423 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:39:41.424 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: reactor.netty.http.server.HttpServerRequest
+[MASTER] 00:39:41.426 [pool-2-thread-1] WARN  CheapPurityAnalyzer - io.netty.handler.codec.http.HttpMethod was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:39:41.426 [pool-2-thread-1] WARN  InheritanceTree - Class not in inheritance graph: io.netty.handler.codec.http.HttpMethod
+[MASTER] 00:39:41.427 [pool-2-thread-1] WARN  CheapPurityAnalyzer - reactor.netty.http.server.HttpServerRequest was not found in the inheritance tree. Using DEFAULT value for cheap-purity analysis
+[MASTER] 00:40:15.526 [pool-2-thread-1] WARN  TimeController - Phase SEARCH lasted too long, 4 seconds more than allowed.

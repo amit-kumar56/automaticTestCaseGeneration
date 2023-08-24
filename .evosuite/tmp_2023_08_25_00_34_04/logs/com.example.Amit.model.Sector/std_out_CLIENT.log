@@ -1,0 +1,3 @@
+[MASTER] 00:39:24.169 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 7 seconds more than allowed.
+[MASTER] 00:39:38.090 [pool-2-thread-1] WARN  TestSuiteGenerator - JUnit checking timed out
+[MASTER] 00:39:38.091 [pool-2-thread-1] WARN  TimeController - Phase JUNIT_CHECK lasted too long, 0 seconds more than allowed.
